@@ -8,13 +8,13 @@ set Assault=167
 where Assault = ' ';
 select * from USArrests;
 
-select avg(Murder), min(Murder), max(Murder), var_pop(Murder)
+select avg(Murder), min(Murder), max(Murder), variance(Murder)
 from USArrests;
 
-select avg(Assault), min(Assault), max(Assault), var_pop(Assault)
+select avg(Assault), min(Assault), max(Assault), variance(Assault)
 from USArrests;
 
-select avg(UrbanPop), min(UrbanPop), max(UrbanPop), var_pop(UrbanPop)
+select avg(UrbanPop), min(UrbanPop), max(UrbanPop), variance(UrbanPop)
 from USArrests;
 
 select max(Murder)
