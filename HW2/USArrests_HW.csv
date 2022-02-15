@@ -1,0 +1,53 @@
+State,Murder,Assault,UrbanPop,UrbanPop Category
+Alabama,11.2,236,58,Medium
+Alaska,10,263,48,Small
+Arizona,8.1,294,80,Extra-large
+Arkansas,8.8,190,50,Medium
+California,9,276,81,Extra-large
+Colorado,7.9,204,78,Extra-large
+Connecticut,4.3,110,77,Extra-large
+Delaware,5.9,238,72,Extra-large
+Florida,5.4,235,80,Extra-large
+Georgia,7.4,170,60,Large
+Hawaii,5.3,146,83,Extra-large
+Idaho,4.6,120,54,Medium
+Illinois,10.4,249,83,Extra-large
+Indiana,7.2,113,65,Large
+Iowa,4.2,156,57,Medium
+Kansas,6,115,66,Large
+Kentucky,9.7,109,52,Medium
+Louisiana,5.4,249,66,Large
+Maine,11.1,183,51,Medium
+Maryland,11.3,200,67,Large
+Massachusetts,4.4,149,85,Extra-large
+Michigan,11.1,255,74,Extra-large
+Minnesota,4.7,172,66,Large
+Mississippi,6.1,259,54,Medium
+Missouri,9,178,70,Extra-large
+Montana,6,109,53,Medium
+Nebraska,4.3,102,62,Large
+Nevada,11.2,252,81,Extra-large
+New Hampshire,11.1,157,56,Medium
+New Jersey,7.4,159,79,Extra-large
+New Mexico,11.4,285,70,Extra-large
+New York,11.1,254,76,Extra-large
+North Carolina,12,237,55,Medium
+North Dakota,8,145,54,Medium
+Ohio,7.3,120,75,Extra-large
+Oklahoma,6.6,151,68,Large
+Oregon,4.9,159,67,Large
+Pennsylvania,6.3,106,72,Extra-large
+Rhode Island,4.4,174,77,Extra-large
+South Carolina,11.4,279,48,Small
+South Dakota,4.8,186,55,Medium
+Tennessee,11.2,188,59,Medium
+Texas,11.7,201,80,Extra-large
+Utah,4.2,120,80,Extra-large
+Vermont,4.2,148,42,Small
+Virginia,8.5,156,63,Large
+Washington,4,145,73,Extra-large
+West Virginia,5.7,181,49,Small
+Wisconsin,11.6,153,66,Large
+Wyoming,6.8,161,60,Large
+Average,7.692,183.94,65.94,
+Standard Deviation,2.717354656,55.68585722,11.56774192,
