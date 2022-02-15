@@ -1,198 +1,191 @@
 [
 	{
-		"year" : 0,
-		"under5" : null,
-		"infant" : null,
-		"neo" : null,
-		"above5" : 7
-	},
-	{
 		"year" : 1990,
 		"under5" : 93,
 		"infant" : 65,
 		"neo" : 37,
-		"above5" : null
+		"above5" : 7
 	},
 	{
 		"year" : 1991,
 		"under5" : 92,
 		"infant" : 64,
 		"neo" : 36,
-		"above5" : null
+		"above5" : 8
 	},
 	{
 		"year" : 1992,
 		"under5" : 91,
 		"infant" : 63,
 		"neo" : 36,
-		"above5" : null
+		"above5" : 9
 	},
 	{
 		"year" : 1993,
 		"under5" : 90,
 		"infant" : 62,
 		"neo" : 35,
-		"above5" : null
+		"above5" : 10
 	},
 	{
 		"year" : 1994,
 		"under5" : 89,
 		"infant" : 61,
 		"neo" : 28,
-		"above5" : null
+		"above5" : 11
 	},
 	{
 		"year" : 1995,
 		"under5" : 87,
 		"infant" : 61,
 		"neo" : 34,
-		"above5" : null
+		"above5" : 13
 	},
 	{
 		"year" : 1996,
 		"under5" : 86,
 		"infant" : 59,
 		"neo" : 34,
-		"above5" : null
+		"above5" : 14
 	},
 	{
 		"year" : 1997,
 		"under5" : 69,
 		"infant" : 58,
 		"neo" : 33,
-		"above5" : null
+		"above5" : 31
 	},
 	{
 		"year" : 1998,
 		"under5" : 82,
 		"infant" : 57,
 		"neo" : 32,
-		"above5" : null
+		"above5" : 18
 	},
 	{
 		"year" : 1999,
 		"under5" : 80,
 		"infant" : 55,
 		"neo" : 32,
-		"above5" : null
+		"above5" : 20
 	},
 	{
 		"year" : 2000,
 		"under5" : 78,
 		"infant" : 54,
 		"neo" : 31,
-		"above5" : null
+		"above5" : 22
 	},
 	{
 		"year" : 2001,
 		"under5" : 75,
 		"infant" : 52,
 		"neo" : 30,
-		"above5" : null
+		"above5" : 25
 	},
 	{
 		"year" : 2002,
 		"under5" : 72,
 		"infant" : 49,
 		"neo" : 29,
-		"above5" : null
+		"above5" : 28
 	},
 	{
 		"year" : 2003,
 		"under5" : 69,
 		"infant" : 49,
 		"neo" : 28,
-		"above5" : null
+		"above5" : 31
 	},
 	{
 		"year" : 2004,
 		"under5" : 67,
 		"infant" : 47,
 		"neo" : 28,
-		"above5" : null
+		"above5" : 33
 	},
 	{
 		"year" : 2005,
 		"under5" : 69,
 		"infant" : 45,
 		"neo" : 26,
-		"above5" : null
+		"above5" : 31
 	},
 	{
 		"year" : 2006,
 		"under5" : 61,
 		"infant" : 43,
 		"neo" : 25,
-		"above5" : null
+		"above5" : 39
 	},
 	{
 		"year" : 2007,
 		"under5" : 59,
 		"infant" : 49,
 		"neo" : 24,
-		"above5" : null
+		"above5" : 41
 	},
 	{
 		"year" : 2008,
 		"under5" : 56,
 		"infant" : 40,
 		"neo" : 24,
-		"above5" : null
+		"above5" : 44
 	},
 	{
 		"year" : 2009,
 		"under5" : 54,
 		"infant" : 39,
 		"neo" : 23,
-		"above5" : null
+		"above5" : 46
 	},
 	{
 		"year" : 2010,
 		"under5" : 69,
 		"infant" : 37,
 		"neo" : 22,
-		"above5" : null
+		"above5" : 31
 	},
 	{
 		"year" : 2011,
 		"under5" : 49,
 		"infant" : 36,
 		"neo" : 22,
-		"above5" : null
+		"above5" : 51
 	},
 	{
 		"year" : 2012,
 		"under5" : 47,
 		"infant" : 35,
 		"neo" : 21,
-		"above5" : null
+		"above5" : 51
 	},
 	{
 		"year" : 2013,
 		"under5" : 46,
 		"infant" : 34,
 		"neo" : 20,
-		"above5" : null
+		"above5" : 53
 	},
 	{
 		"year" : 2014,
 		"under5" : 44,
 		"infant" : 49,
 		"neo" : 20,
-		"above5" : null
+		"above5" : 54
 	},
 	{
 		"year" : 2015,
 		"under5" : 42,
 		"infant" : 31,
 		"neo" : 19,
-		"above5" : null
+		"above5" : 56
 	},
 	{
 		"year" : 2016,
 		"under5" : 41,
 		"infant" : 31,
 		"neo" : 19,
-		"above5" : null
+		"above5" : 58
 	}
 ]
